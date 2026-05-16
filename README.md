@@ -75,7 +75,7 @@ Make sure you have the following installed on your machine:
    ```
 
 5. **Open the application:**
-   Navigate to [http://localhost:3000](http://localhost:3000) in your browser.
+   Navigate to (https://team-task-management-system-production.up.railway.app/) in your browser.
 
 ---
 
